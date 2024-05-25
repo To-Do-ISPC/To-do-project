@@ -2,19 +2,13 @@
 
 # INTEGRANTES:
 
-* Nombre: Paul Yasser
-* Apellido: Esperon
-* DNI: 35967030
-* Correo Electrónico: pool.cba@gmail.com
-* Github:  https://github.com/PaulBlack91
+Aquí está la tabla en formato Markdown con los datos proporcionados:
 
+|         Nombre        |        Apellido       |      DNI     |            Correo Electrónico           |                   Github                  |
+|-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
+|       Paul Yasser     |       Esperon         |  35967030    |   pool.cba@gmail.com                    |  [https://github.com/PaulBlack91](https://github.com/PaulBlack91) |
+|       Santiago        |        Rosso          |              |   santiagorosso98@gmail.com             |  [https://github.com/SantiRosso](https://github.com/SantiRosso) |
 
-* Nombre: Santiago
-* Apellido: Rosso
-* DNI: 
-* Correo Electrónico: santiagorosso98@gmail.com
-* Github: https://github.com/SantiRosso
- 
 ## Descripción de la propuesta de proyecto elegida.
 
 
