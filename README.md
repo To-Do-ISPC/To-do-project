@@ -2,18 +2,18 @@
 
 # INTEGRANTES:
 
-Nombre: Paul Yasser
-Apellido: Esperon
-DNI: 35967030
-Correo Electrónico: pool.cba@gmail.com
-Github:  https://github.com/PaulBlack91
+* Nombre: Paul Yasser
+* Apellido: Esperon
+* DNI: 35967030
+* Correo Electrónico: pool.cba@gmail.com
+* Github:  https://github.com/PaulBlack91
 
 
-Nombre: Santiago
-Apellido: Rosso
-DNI: 
-Correo Electrónico: santiagorosso98@gmail.com
-Github: https://github.com/SantiRosso
+* Nombre: Santiago
+* Apellido: Rosso
+* DNI: 
+* Correo Electrónico: santiagorosso98@gmail.com
+* Github: https://github.com/SantiRosso
  
 ## Descripción de la propuesta de proyecto elegida.
 
