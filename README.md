@@ -25,7 +25,7 @@ Un proyecto de lista de tareas pendientes (TO-DO) es una aplicación o herramien
 ### Objetivo
 El objetivo principal del proyecto TO-DO es proporcionar una plataforma donde los usuarios puedan crear, visualizar, actualizar y eliminar tareas de manera eficiente. La herramienta busca mejorar la productividad y la gestión del tiempo, permitiendo a los usuarios priorizar y seguir el progreso de sus tareas.
 
-###Funcionalidades Principales
+### Funcionalidades Principales
 - Creación de Tareas:
 Los usuarios pueden añadir nuevas tareas con detalles como el título, la descripción, la fecha de vencimiento y la prioridad.
 - Visualización de Tareas:
@@ -50,7 +50,7 @@ Funcionalidad de búsqueda y filtros para encontrar tareas específicas rápidam
 
 ### Beneficios
 
-Productividad Mejorada:
+***Productividad Mejorada:***
 
 - Los usuarios pueden planificar y organizar sus tareas de manera más eficiente, lo que les permite cumplir sus objetivos más rápidamente.
 Mejor Gestión del Tiempo:
