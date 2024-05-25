@@ -7,7 +7,7 @@ Aquí está la tabla en formato Markdown con los datos proporcionados:
 |         Nombre        |        Apellido       |      DNI     |            Correo Electrónico           |                   Github                  |
 |-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
 |       Paul Yasser     |       Esperon         |  35967030    |   pool.cba@gmail.com                    |  [https://github.com/PaulBlack91](https://github.com/PaulBlack91) |
-|       Santiago        |        Rosso          |              |   santiagorosso98@gmail.com             |  [https://github.com/SantiRosso](https://github.com/SantiRosso) |
+|       Santiago        |        Rosso          |  41032749     |   santiagorosso98@gmail.com             |  [https://github.com/SantiRosso](https://github.com/SantiRosso) |
 
 ## Descripción de la propuesta de proyecto elegida.
 
