@@ -29,3 +29,14 @@ Inicio
         Fin Si
     Fin Mientras
 Fin
+
+
+### Descripción de las Funciones:
+
+CrearNuevaTarea: Solicita al usuario los detalles de la nueva tarea (título, descripción, fecha de vencimiento, prioridad) y la añade a la lista de tareas.
+
+VerTodasLasTareas: Muestra una lista de todas las tareas existentes con sus detalles.
+
+EditarTarea: Permite al usuario seleccionar una tarea existente y modificar sus detalles.
+
+EliminarTarea: Permite al usuario seleccionar una tarea existente y eliminarla de la lista.
