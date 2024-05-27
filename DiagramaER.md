@@ -32,3 +32,5 @@
 | contraseña                 | prioridad                |
 |                            | estado                   |
 |                            | id_usuario (fk)          |
+
+![image](https://github.com/To-Do-ISPC/To-do-project/assets/110547555/6a5a9288-5a0d-492c-ae71-05dcd9db1f04)
