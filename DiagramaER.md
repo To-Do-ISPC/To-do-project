@@ -21,3 +21,14 @@
 - ***id_usuario (FK):*** Identificador del usuario al que pertenece la tarea (clave foránea).
 
 ***Relación usuarios-tareas:*** Un usuario puede tener múltiples tareas (1-n).
+
+
+| usuarios                   | tareas                   |
+|----------------------------|--------------------------|
+| id_usuario (pk)            | id_tarea (pk)            |
+| nombre                     | titulo                   |
+| apellido                   | descripcion              |
+| correo_electronico         | fecha_vencimiento        |
+| contraseña                 | prioridad                |
+|                            | estado                   |
+|                            | id_usuario (fk)          |
