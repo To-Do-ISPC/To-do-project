@@ -8,6 +8,8 @@ Aquí está la tabla en formato Markdown con los datos proporcionados:
 |-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
 |       Paul Yasser     |       Esperon         |  35967030    |   pool.cba@gmail.com                    |  [https://github.com/PaulBlack91](https://github.com/PaulBlack91) |
 |       Santiago        |        Rosso          |  41032749     |   santiagorosso98@gmail.com             |  [https://github.com/SantiRosso](https://github.com/SantiRosso) |
+|       Fernandez        |        Ariel          |  33817721     |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/SantiRosso](https://github.com/fernandez-ariel) |
+
 
 ## Descripción de la propuesta de proyecto elegida.
 
