@@ -2,7 +2,6 @@
 
 # INTEGRANTES:
 
-Aquí está la tabla en formato Markdown con los datos proporcionados:
 
 |         Nombre        |        Apellido       |      DNI     |            Correo Electrónico           |                   Github                  |
 |-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
